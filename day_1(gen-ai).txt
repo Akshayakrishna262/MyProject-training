@@ -25,4 +25,7 @@ GIT & GITHUB both are version control systems
 
 >BRANCH in GitHub
 	its a folder- to create duplicate without affect on original folder
+>
 *only static websites can support GitHub pages
+*PUSH- is used for local to remote(git-GitHub)
+*PULL- is used for remote to local(github-git)
