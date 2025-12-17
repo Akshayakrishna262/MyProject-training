@@ -1,0 +1,28 @@
+GIT & GITHUB both are version control systems
+
+*GIT- It is stored in local computer and offline based
+*GITHUB- it stored in repositories where it helps in collaboration and online based web.
+
+>to push files in git ---- git init
+*to add single file in git we use command
+		git add index.html 
+*to add files in git we use command
+		git add .
+*to commit our files in git
+	git commit -m "My first Portfolio commit"
+*to run--- Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+*again commit-- git commit -m "My first Portfolio commit"
+*then it displays create mode so files are saved
+*open your GitHub account>settings>pages nd copy the url
+	git remote add origin https://github.com/Akshayakrishna262/MyProject-training.git
+	git branch(is for folders)    * master
+	git branch -M master
+	git push -u origin master
+	
+
+>BRANCH in GitHub
+	its a folder- to create duplicate without affect on original folder
+*only static websites can support GitHub pages
